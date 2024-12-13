@@ -14,4 +14,4 @@ try:
     flt = float(dat)
     print("float", type(flt), flt)
 except:
-    print("Error! no es un dato Decimal")
+    print("Error! no es un dato Decimal") 
